@@ -6,7 +6,7 @@
 #### 6
 #### 7 blue is a good color
 #### 8
-#### 9
+#### 9 git is really good
 #### 10
 #### 11
 #### 12
