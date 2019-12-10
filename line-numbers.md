@@ -6,7 +6,7 @@
 #### 6
 #### 7 blue is a good color
 #### 8
-#### 9
+#### 9 GitHub is awesome.
 #### 10
 #### 11
 #### 12
