@@ -2,7 +2,7 @@
 #### 2
 #### 3 no he wasnt
 #### 4
-#### 5
+#### 5 red is a good color
 #### 6
 #### 7
 #### 8
